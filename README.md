@@ -1,5 +1,5 @@
 # Lab 2: Graphics
-Lab 2 will help us learn how to use the libraries in Java, which will help us with mobile app creation. You can view the lab instructions at Instructions.pdf or on Blackboard.
+Lab 2 will help us learn how to use the libraries in Java, which will help us with mobile app creation. You can view the lab instructions [here](https://github.com/cst2301-pt13/graphics/blob/master/Instructions.pdf) or on Blackboard.
 
 Please follow these steps:
 
