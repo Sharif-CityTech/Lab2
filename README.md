@@ -8,7 +8,7 @@ Please follow these steps:
 1. Modify the files and [**commit**][ref-commit] changes to complete your solution.
 1. [**Push**][ref-push]/sync the changes up to GitHub.
 1. [Create a **pull request**][pull-request] on the original repository to turn in the assignment.
-2. Submit your GitHub **username** on [Blackboard][blackboard].
+2. Submit your GitHub **pull request URL** on [Blackboard][blackboard].
 
 <!-- Links -->
 [create-repo]: https://help.github.com/articles/create-a-repo
