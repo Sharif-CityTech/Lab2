@@ -8,7 +8,7 @@ Please follow these steps:
 1. Modify the files and [**commit**][ref-commit] changes to complete your solution.
 1. [**Push**][ref-push]/sync the changes up to GitHub.
 1. [Create a **pull request**][pull-request] on the original repository to turn in the assignment.
-2. Submit your GitHub **pull request URL** on [Blackboard][blackboard].
+2. Submit your GitHub **pull request URL** on [Blackboard][blackboard]. An example of a pull request URL is https://github.com/cst2301-pt13/graphics/pull/1. You can get this from going to the "Pull Requests" tab of your GitHub account.
 
 <!-- Links -->
 [create-repo]: https://help.github.com/articles/create-a-repo
